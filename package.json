@@ -44,7 +44,7 @@
     "cli-handle-unhandled": "^1.1.1",
     "cli-meow-help": "^3.1.0",
     "cli-welcome": "^2.2.2",
-    "execa": "^5.0.0",
+    "execa": "^6.1.0",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.1.0",
     "inquirer": "^8.2.5",
